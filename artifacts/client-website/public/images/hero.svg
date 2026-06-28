@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#0a0a0f"/>
+  <!-- Abstract geometric tech background -->
+  <line x1="0" y1="0" x2="1920" y2="1080" stroke="#1a1a2e" stroke-width="1"/>
+  <line x1="0" y1="200" x2="1920" y2="1080" stroke="#1a1a2e" stroke-width="0.5"/>
+  <line x1="0" y1="400" x2="1920" y2="1080" stroke="#1a1a2e" stroke-width="0.5"/>
+  <line x1="960" y1="0" x2="0" y2="1080" stroke="#1a1a2e" stroke-width="0.5"/>
+  <line x1="1920" y1="0" x2="0" y2="540" stroke="#1a1a2e" stroke-width="0.5"/>
+  <circle cx="960" cy="540" r="400" fill="none" stroke="#1a1a2e" stroke-width="1"/>
+  <circle cx="960" cy="540" r="600" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+  <circle cx="960" cy="540" r="800" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+  <!-- Glowing orb -->
+  <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#c9a96e" stop-opacity="0.15"/>
+    <stop offset="100%" stop-color="#c9a96e" stop-opacity="0"/>
+  </radialGradient>
+  <ellipse cx="960" cy="400" rx="500" ry="350" fill="url(#orb)"/>
+  <!-- Grid dots -->
+  <circle cx="200" cy="200" r="2" fill="#c9a96e" opacity="0.3"/>
+  <circle cx="400" cy="300" r="2" fill="#c9a96e" opacity="0.2"/>
+  <circle cx="600" cy="150" r="2" fill="#7eb8c9" opacity="0.3"/>
+  <circle cx="1320" cy="200" r="2" fill="#c9a96e" opacity="0.3"/>
+  <circle cx="1500" cy="350" r="2" fill="#7eb8c9" opacity="0.2"/>
+  <circle cx="1700" cy="180" r="2" fill="#c9a96e" opacity="0.2"/>
+</svg>

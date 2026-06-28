@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#080f14"/>
+  <!-- Map background -->
+  <rect x="0" y="0" width="800" height="600" fill="#0a1220"/>
+  <line x1="0" y1="100" x2="800" y2="100" stroke="#0f1830" stroke-width="1"/>
+  <line x1="0" y1="200" x2="800" y2="200" stroke="#0f1830" stroke-width="1"/>
+  <line x1="0" y1="300" x2="800" y2="300" stroke="#0f1830" stroke-width="1"/>
+  <line x1="0" y1="400" x2="800" y2="400" stroke="#0f1830" stroke-width="1"/>
+  <line x1="0" y1="500" x2="800" y2="500" stroke="#0f1830" stroke-width="1"/>
+  <line x1="100" y1="0" x2="100" y2="600" stroke="#0f1830" stroke-width="1"/>
+  <line x1="200" y1="0" x2="200" y2="600" stroke="#0f1830" stroke-width="1"/>
+  <line x1="300" y1="0" x2="300" y2="600" stroke="#0f1830" stroke-width="1"/>
+  <line x1="400" y1="0" x2="400" y2="600" stroke="#0f1830" stroke-width="1"/>
+  <line x1="500" y1="0" x2="500" y2="600" stroke="#0f1830" stroke-width="1"/>
+  <line x1="600" y1="0" x2="600" y2="600" stroke="#0f1830" stroke-width="1"/>
+  <line x1="700" y1="0" x2="700" y2="600" stroke="#0f1830" stroke-width="1"/>
+  <!-- Map roads -->
+  <path d="M100,300 Q250,200 400,300 Q550,400 700,300" stroke="#1a2840" stroke-width="8" fill="none"/>
+  <path d="M200,0 Q250,150 300,300 Q350,450 380,600" stroke="#1a2840" stroke-width="6" fill="none"/>
+  <path d="M0,400 Q200,380 400,420 Q600,460 800,400" stroke="#1a2840" stroke-width="6" fill="none"/>
+  <!-- Charging stations on map -->
+  <circle cx="200" cy="250" r="16" fill="#7ec97e" opacity="0.3"/>
+  <circle cx="200" cy="250" r="8" fill="#7ec97e" opacity="0.8"/>
+  <text x="195" y="255" font-family="system-ui" font-size="9" fill="#0a1220" font-weight="bold">⚡</text>
+  <circle cx="350" cy="180" r="16" fill="#7ec97e" opacity="0.3"/>
+  <circle cx="350" cy="180" r="8" fill="#7ec97e" opacity="0.8"/>
+  <circle cx="500" cy="320" r="16" fill="#c9a96e" opacity="0.3"/>
+  <circle cx="500" cy="320" r="8" fill="#c9a96e" opacity="0.8"/>
+  <text x="520" y="310" font-family="system-ui" font-size="9" fill="#c9a96e">In Use</text>
+  <circle cx="620" cy="220" r="16" fill="#7ec97e" opacity="0.3"/>
+  <circle cx="620" cy="220" r="8" fill="#7ec97e" opacity="0.8"/>
+  <circle cx="150" cy="420" r="16" fill="#7ec97e" opacity="0.3"/>
+  <circle cx="150" cy="420" r="8" fill="#7ec97e" opacity="0.8"/>
+  <circle cx="450" cy="450" r="16" fill="#7eb8c9" opacity="0.3"/>
+  <circle cx="450" cy="450" r="8" fill="#7eb8c9" opacity="0.8"/>
+  <text x="470" y="440" font-family="system-ui" font-size="9" fill="#7eb8c9">Reserved</text>
+  <!-- App UI overlay (phone) -->
+  <rect x="560" y="60" width="200" height="380" rx="16" fill="#0d0d14" stroke="#2e2e3e" stroke-width="2"/>
+  <rect x="575" y="80" width="170" height="340" rx="8" fill="#111118"/>
+  <text x="590" y="110" font-family="system-ui" font-size="12" fill="#c9a96e" font-weight="600">VOLTA</text>
+  <text x="590" y="128" font-family="system-ui" font-size="9" fill="#666">EV Charging Network</text>
+  <rect x="590" y="140" width="150" height="60" rx="6" fill="#0a0a0f"/>
+  <text x="605" y="162" font-family="system-ui" font-size="9" fill="#888">Nearest Station</text>
+  <text x="605" y="182" font-family="system-ui" font-size="13" fill="#7ec97e" font-weight="500">0.4 mi away</text>
+  <text x="605" y="196" font-family="system-ui" font-size="9" fill="#666">6/8 ports available</text>
+  <text x="590" y="225" font-family="system-ui" font-size="10" fill="#888">Nearby Stations</text>
+  <rect x="590" y="234" width="150" height="40" rx="4" fill="#0a0a0f"/>
+  <circle cx="605" cy="254" r="7" fill="#7ec97e" opacity="0.6"/>
+  <text x="620" y="252" font-family="system-ui" font-size="10" fill="#ddd">Main St Depot</text>
+  <text x="620" y="265" font-family="system-ui" font-size="8" fill="#666">DC Fast · Free</text>
+  <text x="720" y="258" font-family="system-ui" font-size="10" fill="#7ec97e" text-anchor="end">0.4mi</text>
+  <rect x="590" y="282" width="150" height="40" rx="4" fill="#0a0a0f"/>
+  <circle cx="605" cy="302" r="7" fill="#c9a96e" opacity="0.6"/>
+  <text x="620" y="300" font-family="system-ui" font-size="10" fill="#ddd">Harbor Garage</text>
+  <text x="620" y="313" font-family="system-ui" font-size="8" fill="#666">Level 2 · $0.25/min</text>
+  <text x="720" y="306" font-family="system-ui" font-size="10" fill="#888" text-anchor="end">1.2mi</text>
+  <rect x="590" y="345" width="150" height="36" rx="18" fill="#7ec97e" opacity="0.2"/>
+  <text x="660" y="368" font-family="system-ui" font-size="11" fill="#7ec97e" text-anchor="middle">Reserve Now</text>
+  <!-- Label -->
+  <rect x="0" y="540" width="200" height="60" fill="rgba(0,0,0,0.8)"/>
+  <text x="16" y="565" font-family="system-ui" font-size="10" fill="#c9a96e" letter-spacing="2">SOFTWARE</text>
+  <text x="16" y="588" font-family="system-ui" font-size="13" fill="#fff" font-weight="600">Volta EV App</text>
+</svg>

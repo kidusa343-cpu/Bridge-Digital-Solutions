@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#0f0e0a"/>
+  <!-- Studio lighting background -->
+  <ellipse cx="400" cy="180" rx="300" ry="200" fill="#2a1f0a" opacity="0.6"/>
+  <ellipse cx="200" cy="100" rx="180" ry="120" fill="#1a1205" opacity="0.8"/>
+  <!-- Lighting rig top -->
+  <rect x="80" y="30" width="640" height="6" rx="3" fill="#2a2520"/>
+  <rect x="150" y="30" width="8" height="60" fill="#2a2520"/>
+  <rect x="350" y="30" width="8" height="80" fill="#2a2520"/>
+  <rect x="550" y="30" width="8" height="60" fill="#2a2520"/>
+  <!-- Lights -->
+  <ellipse cx="154" cy="110" rx="35" ry="25" fill="#ffe4a0" opacity="0.15"/>
+  <ellipse cx="154" cy="100" rx="20" ry="14" fill="#ffe4a0" opacity="0.4"/>
+  <rect x="140" y="85" width="28" height="20" rx="4" fill="#333"/>
+  <ellipse cx="354" cy="130" rx="40" ry="28" fill="#ffe4a0" opacity="0.2"/>
+  <ellipse cx="354" cy="118" rx="22" ry="16" fill="#ffe4a0" opacity="0.5"/>
+  <rect x="338" y="100" width="32" height="22" rx="4" fill="#333"/>
+  <ellipse cx="554" cy="110" rx="35" ry="25" fill="#ffe4a0" opacity="0.15"/>
+  <ellipse cx="554" cy="100" rx="20" ry="14" fill="#ffe4a0" opacity="0.4"/>
+  <rect x="540" y="85" width="28" height="20" rx="4" fill="#333"/>
+  <!-- Light beams -->
+  <polygon points="134,105 174,105 220,400 108,400" fill="#ffe4a0" opacity="0.03"/>
+  <polygon points="332,118 376,118 430,400 278,400" fill="#ffe4a0" opacity="0.05"/>
+  <polygon points="534,105 574,105 620,400 488,400" fill="#ffe4a0" opacity="0.03"/>
+  <!-- Subject/product on podium -->
+  <ellipse cx="400" cy="430" rx="120" ry="20" fill="#1a1205" opacity="0.8"/>
+  <rect x="360" y="340" width="80" height="90" rx="4" fill="#1e1a10"/>
+  <rect x="368" y="348" width="64" height="74" rx="3" fill="#0f0d08"/>
+  <!-- Skincare bottle -->
+  <rect x="385" y="280" width="30" height="60" rx="15" fill="#c9a96e"/>
+  <rect x="388" y="278" width="24" height="8" rx="4" fill="#a08050"/>
+  <text x="390" y="320" font-family="system-ui" font-size="8" fill="#0f0d08" font-weight="bold">SOL</text>
+  <!-- Camera crew silhouette -->
+  <rect x="80" y="380" width="120" height="120" rx="4" fill="#0a0905"/>
+  <circle cx="140" cy="390" r="12" fill="#1a1810"/>
+  <rect x="120" y="402" width="40" height="50" rx="4" fill="#1a1810"/>
+  <!-- Camera on tripod -->
+  <rect x="580" y="360" width="80" height="50" rx="4" fill="#111"/>
+  <rect x="600" y="356" width="40" height="58" rx="6" fill="#1a1a1a"/>
+  <circle cx="620" cy="382" r="14" fill="#0d0d0d" stroke="#333" stroke-width="2"/>
+  <circle cx="620" cy="382" r="8" fill="#050505"/>
+  <rect x="615" y="414" width="10" height="120" fill="#1a1a1a"/>
+  <line x1="590" y1="534" x2="650" y2="534" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="590" y1="534" x2="570" y2="580" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="650" y1="534" x2="670" y2="580" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="620" y1="534" x2="620" y2="580" stroke="#1a1a1a" stroke-width="2"/>
+  <!-- Label -->
+  <rect x="0" y="540" width="220" height="60" fill="rgba(0,0,0,0.7)"/>
+  <text x="16" y="565" font-family="system-ui" font-size="10" fill="#c9a96e" letter-spacing="2">PROMOTION &amp; MEDIA</text>
+  <text x="16" y="588" font-family="system-ui" font-size="13" fill="#fff" font-weight="600">Solaris Campaign</text>
+</svg>

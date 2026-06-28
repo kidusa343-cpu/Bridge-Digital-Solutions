@@ -1,0 +1,86 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "Sk4HNxHcgCT40adjuVkV1"
+uri = "file://artifacts/client-website/public/images/hero.png"
+type = "image"
+title = "Luxury architecture interior"
+
+[[generated]]
+id = "75wTjjLw8JA_nfAhlIM14"
+uri = "file://artifacts/client-website/public/images/about.png"
+type = "image"
+title = "Luxury office meeting room"
+
+[[generated]]
+id = "oH0nCahaC5pVs32jSNUwU"
+uri = "file://artifacts/client-website/public/images/service-1.png"
+type = "image"
+title = "Abstract gold fluid"
+
+[[generated]]
+id = "ufT1Qb2xQdWBpjk0Kp_0L"
+uri = "file://artifacts/client-website/public/images/service-2.png"
+type = "image"
+title = "Abstract dark texture"
+
+[[generated]]
+id = "47hDve0mnUKwiXUNEfSoC"
+uri = "file://artifacts/client-website/public/images/project-1.png"
+type = "image"
+title = "Modern architecture exterior"
+
+[[generated]]
+id = "jBuEl_UhTPINOdbmPygDI"
+uri = "file://artifacts/client-website/public/images/proj-sw-1.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "mS-u2_RAwPz0zPO3_F9Za"
+uri = "file://artifacts/client-website/public/images/proj-sw-2.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "mTVo66HLmrhrgiQ7K0qwI"
+uri = "file://artifacts/client-website/public/images/proj-sw-3.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "-vrYpih9SQRePa6X6XkMv"
+uri = "file://artifacts/client-website/public/images/proj-sw-4.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "RAPn3dAWpSd5VixaSdivb"
+uri = "file://artifacts/client-website/public/images/proj-sw-5.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "3cXAaUOL0s0iyrUNN4WhG"
+uri = "file://artifacts/client-website/public/images/proj-md-1.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "-R5uxeYvKqCSdjc-tO5Ru"
+uri = "file://artifacts/client-website/public/images/proj-md-2.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "hE4-egC2ctKtZaYWbOgO-"
+uri = "file://artifacts/client-website/public/images/proj-md-3.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "SL04HsHGaeAmHoqsM4ud9"
+uri = "file://artifacts/client-website/public/images/proj-md-4.png"
+type = "image"
+title = "generated_image"
