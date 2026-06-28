@@ -11,7 +11,7 @@ export const company = {
   address: ".",
   city: "Addis Ababa",
   country: "Ethiopia",
-  foundedYear: "2017",
+  foundedYear: "2023",
   teamSize: "24",
   missionStatement:
     "To build software and media that creates real competitive advantage — not just deliverables, but lasting systems.",
