@@ -1,6 +1,6 @@
 kind = "web"
 previewPath = "/"
-title = "Public Website"
+title = "Bridge Digital Solutions"
 version = "1.0.0"
 id = "artifacts/client-website"
 router = "path"
