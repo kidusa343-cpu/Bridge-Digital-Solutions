@@ -218,7 +218,7 @@ export const projects = [
       coverImageUrl: "/images/proj-md-4.png",
     imageUrls: JSON.stringify(["/images/proj-md-4.png"]),
     featured: false,
-    tags: JSON.stringify(["Real Estate", "Cinematic Video", "Social Media", "Aerial"]),
+    tags: JSON.stringify(["Social Media", "TikTok", "Content Creation", "Video Production"]),
   },
 ];
 

@@ -13,7 +13,7 @@ async function update() {
     address: "220 East 42nd Street, Suite 600",
     city: "Addis Ababa",
     country: "Ethiopia",
-    foundedYear: 2017,
+    foundedYear: 2023,
     teamSize: "10–20",
     linkedinUrl: "https://linkedin.com/company/nexusdigitalsolutions",
     twitterUrl: "https://twitter.com/nexusdigitalhq",
